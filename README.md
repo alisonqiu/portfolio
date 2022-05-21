@@ -1,0 +1,1 @@
+implemented responsive design for different screen sizes
