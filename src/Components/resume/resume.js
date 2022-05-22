@@ -38,11 +38,44 @@ export default function Resume() {
                 Skills
             </h2>
             <ul>
-                <li>CSS</li>
-                <li>HTML</li>
+                <li>React</li>
+                <li>nodeJS</li>
                 <li>JavaScript</li>
                 <li>Git</li>
-                <li>Visual Studio Code</li>
+                <li>SQL</li>
+                <li>Python</li>
+                <li>REST APIs</li>
+                <li>Java</li>
+                <li>Docker</li>
+                <li>CSS</li>
+                <li>HTML</li>
+                <li>Material UI</li>
+                <li>PyTorch</li>
+                <li>Azure</li>
+                <li>Figma</li>
+                <li>Pandas</li>
+                <li>C</li>
+                <li>Matplotlib</li>
+                <li>NextJS</li>
+                <li>Shell scripting</li>
+            </ul>
+        </section>
+        <section class="box">
+            <h2>
+                <i class="fa fa-check" aria-hidden="true"></i>
+                Awards
+            </h2>
+            <h3>Summer Undergraduate Research Fellowships</h3>
+            <ul>
+                <li>Selected as one of ... fellows for paid summer research</li>
+            </ul>
+            <h3>Rice Engineering Alumni Award</h3>
+            <ul>
+                <li>Selected as the winner of Leadership Excellence Award</li>
+            </ul>
+            <h3>President’s Honor Roll</h3>
+            <ul>
+                <li>Selected as one among the top 30 percent of all undergraduates for achieving an extraordinary GPA</li>
             </ul>
         </section>
     </article>
@@ -91,38 +124,71 @@ export default function Resume() {
                 Projects
             </h2>
             
-            <h3>Great hackathon</h3>
-            <div>This was a great hack!</div>
+            <h3>Wordle</h3>
             <ul>
-                <li>Cool technology used</li>
-                <li>Prize won</li>
+                <li>Coded the complete functionality of the game Wordle using React for frontend and NodeJS for backend 
+Designed and implemented the UI for extra features like automatically triggered confetti and light/dark mode
+</li>
+                <li>Designed and implemented the UI for extra features like automatically triggered confetti and light/dark mode
+</li>
+                <li>Tools used include ReactJS, Material UI, nodeJS, express, Rapid API</li>
             </ul>
             <br/>
-            <h3>Great hackathon</h3>
-            <div>This was a great hack!</div>
+            <h3>My Portfolio</h3>
             <ul>
-                <li>Cool technology used</li>
-                <li>Prize won</li>
+                <li>designed, built, and deployed my portfolio website</li>
+                <li></li>
+                <li>Tools used include JavaScript, React, GitHub, Material UI, Azure, EmailJS</li>
             </ul>
             <br/>
-            <h3>Great hackathon</h3>
-            <div>This was a great hack!</div>
+            <h3>Sport Analytics</h3>
             <ul>
-                <li>Cool technology used</li>
-                <li>Prize won</li>
+                <li>Analyzed baseball statistics over several seasons to generate a predictive model for future game outcomes
+</li>
+                <li>Extracted past data from a txt file and used linear algebra for model training and testing in Python
+</li>
             </ul>
             <br/>
+            <h3>Stock Market Prediction</h3>
+            <ul>
+                <li>Built a behavioral model of stocks in Python using performance data from the past two years</li>
+                <li>Simulated a prediction to stock’s prices of DJIA, GOOG, FSLR for several days in the future, using Markov chains</li>
+            </ul>
         </section>
         <section class="box">
             <h1>Leadership Experiences</h1>
             <h2>
                 <i class="fa fa-briefcase" aria-hidden="true"></i>
-                Experience
+                CSters (Society for Women in Computer Science)
             </h2>
-            <h3>Microsoft Learn Student Ambassador</h3>
+            <h3>Social Coordinator</h3>
             <ul>
-                <li>Some skill</li>
-                <li>Another skill</li>
+                <li>Recruited 10+  new members to join the organization by helping them with coding </li>
+                <li>Planned events like monthly lunches and study breaks that involved 30 participants to help women and build connections and support each other
+</li>
+            </ul>
+            <br/>
+            <h2>
+                <i class="fa fa-briefcase" aria-hidden="true"></i>
+                Rice University Student Association
+            </h2>
+            <h3>College Senator</h3>
+            <ul>
+                <li>Strengthened Rice's academic policies by researching and drafting a resolution for undergraduate curriculum change</li>
+                <li>Arranged meetings with the faculty senate to present and advocate for academic support for mental health reasons
+</li>
+            </ul>
+            <br/>
+            <h2>
+                <i class="fa fa-briefcase" aria-hidden="true"></i>
+                CandleX
+            </h2>
+            <h3>Project Manager</h3>
+            <ul>
+                <li>Founded Teen Support Group for a non-profit mental health organization supporting 2000 people in Beijing
+</li>
+                <li>Managed and innovated CandleX’s website and social media accounts
+</li>
             </ul>
         </section>
     </article>

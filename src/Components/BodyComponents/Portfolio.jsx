@@ -8,7 +8,7 @@ import { Theme } from "../Theme";
 import wordle from "../../images/wordle.jpg";
 import blog from "../../images/blog.jpg";
 import meme from "../../images/meme.jpg";
-import portfolio from "../../images/portfolio.jpg";
+import portfolio from "../../images/portfolio.gif";
 import orcahome from "../../images/orcahome.jpg";
 import Knobull from "../../images/knobull.jpg";
 import ScrollAnimation from "react-animate-on-scroll";
