@@ -82,6 +82,18 @@ export default function Resume() {
     <article class="box">
         <section class="box">
         <h1>Professional Experiences</h1>
+        <h2>
+                <i class="fa fa-building" aria-hidden="true"></i>
+                Software Engineer and Data Visualization Intern
+            </h2>
+
+            <h3>Rice University Center for Research Computing</h3>
+            <ul>
+                <li>Rebuilt frontend for the largest data repository on slave voyage data between the 16th and 19th century</li>
+                <li>Developed more understandable ways to display the SQL data for public use with 5000 visitors to the website per month</li>
+                <li>Tools used include Python, React, Plotly/dash, Pandas, Heroku, GitHub</li>
+            </ul>
+            <br/>
             <h2>
                 <i class="fa fa-building" aria-hidden="true"></i>
                 Full Stack Developer
